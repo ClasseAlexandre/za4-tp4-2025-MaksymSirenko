@@ -1,0 +1,111 @@
+
+body{
+    
+    background-color: rgb(255, 186, 96);
+    font-family:Cambria, Cochin, Georgia,Times, 'Times New Roman', serif ;
+    margin: 0;
+    padding: 0;
+}
+div{
+    color:rgb(0, 62, 231)
+}
+h1,h2,h3,h4,h5,h6{
+   text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    
+    
+}
+.div-principal{
+    width: 80%;
+    margin: auto;
+}
+
+
+
+
+
+
+
+
+#titre-boutique {
+     color: rgb(10, 129, 84);
+    text-decoration: underline solid 2px red; 
+    margin-bottom: 20px;
+    display: block;
+   text-align: center;
+  }
+  #titre-boutique:hover{
+    color: darkgoldenrod;
+  }
+  .index-image{
+    border-radius: 15px;
+  }
+  h2.index{
+    color: rgb(10, 129, 84);
+    text-decoration: underline solid 2px red; 
+    margin-bottom: 10px;
+    display: block;
+  }
+  p.index{
+    text-align: justify;
+}
+  #caractéristiques-principales{
+    padding: 0px;
+    text-align: left;
+    list-style-type: none;
+  }li.index{
+    background-color: beige;
+    
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 10px;
+  }
+  #lien{
+    color: green;
+    text-decoration: none;
+  }
+  #lien:hover{
+  text-decoration: underline;
+  }
+
+
+
+   table.jeux{
+    margin: auto;
+    width: 320px;
+    }
+   
+   caption.jeux{
+      font-style: italic;
+      text-decoration: underline;
+      height: 20px;
+      margin: 10px;
+    }
+
+
+    th.jeux{
+      padding: 10px;
+
+    }
+    button.jeux{
+      background-color: cornflowerblue;
+      color: olive;
+      font-weight: bold;
+      font-size: 14px;
+      height: 50px;
+      width: 100%;
+      border-radius: 12px;
+      border: none;
+    }
+    button:hover{
+      background-color:rgb(78, 103, 150) ;
+    }
+    img.jeux{
+      border-radius: 15px;
+    }
